@@ -1,4 +1,4 @@
-# a13g2-a13602
+# A13G02
 a13g2-a13602 created by GitHub Classroom
 
 Utilicen este team para el práctico de Ejercicio Profesional AULA 13 GRUPO 2
