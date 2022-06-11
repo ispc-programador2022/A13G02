@@ -1,3 +1,5 @@
+import bienvenida as hola
+
 #Esta es la rama principal para el ejercicio de Situación Profesional I
 
 #Consignas:
@@ -5,7 +7,8 @@
 
 #Esta aplicación debe llamar a funciones, cada una en su archivo .py a saber:
 
-#función que muestre cartel de presentación.
+#función que muestre cartel de presentación. (Función bienvenida-listo)
+hola.bienvenida()
 
 #función ing2i, debe permitir el ingreso de 2 valores enteros
 
