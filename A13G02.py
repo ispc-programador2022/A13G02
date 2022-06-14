@@ -15,6 +15,8 @@ hola.bienvenida()
 #función ing2s, debe permitir el ingreso de 2 valores string
 
 #1- función suma, retorna la suma de 2 parámetros.
+def suma(a,b):
+    return a+b
 
 #2- función resta, retorna la resta de 2 parámetros.
 
